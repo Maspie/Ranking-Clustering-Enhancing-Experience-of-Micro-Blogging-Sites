@@ -27,8 +27,7 @@ This approach not only simplifies content discovery but also makes it more perso
 
 Initial Clusters
 
-![Initial Clusters]
-(Tweets_Preprocessing/Screenshot 2024-05-07 151447.png)
+![Content Discovery Using Iterative Clustering](Tweets_Preprocessing/Screenshot 2024-05-07 151447.png)
 
 Sub Clusters lvl. 1
 
