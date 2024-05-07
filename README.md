@@ -20,4 +20,4 @@ This project develops a comprehensive framework to enhance the discovery and acc
 - **OpenAI API**: Integrates advanced AI models for generating text summaries.
 - **Pandas & NumPy**: Handle data manipulation and mathematical operations.
 
-##Possible Future Works
+## Possible Future Works
