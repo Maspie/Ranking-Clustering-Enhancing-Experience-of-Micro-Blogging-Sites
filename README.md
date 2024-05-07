@@ -27,7 +27,7 @@ This approach not only simplifies content discovery but also makes it more perso
 
 ####Initial Clusters
 
-![Initial Clusters](Tweets_Preprocessing/Screenshot_2024-05-07_151447.png)
+![Initial Clusters]([Tweets_Preprocessing/Screenshot_2024-05-07_151447.png](https://github.com/Maspie/Ranking-Clustering-Enhancing-Experience-of-Micro-Blogging-Sites/blob/18feb26cd8adf0a4df0dd12c9ea89b2257d96d42/Tweets_Preprocessing/Cluster%201.png))
 
 ![Sub Clusters lvl. 1](Tweets_Preprocessing/Screenshot_2024-05-07_152715.png)
 
