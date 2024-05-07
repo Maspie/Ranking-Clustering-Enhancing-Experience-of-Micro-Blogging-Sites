@@ -25,7 +25,7 @@ This approach not only simplifies content discovery but also makes it more perso
 
 ## Screenshots
 
-Initial Clusters
+####Initial Clusters
 
 ![Initial Clusters](Tweets_Preprocessing/Screenshot_2024-05-07_151447.png)
 
