@@ -20,7 +20,7 @@ This project develops a comprehensive framework to enhance the discovery and acc
 - **OpenAI API**: Integrates advanced AI models for generating text summaries.
 - **Pandas & NumPy**: Handle data manipulation and mathematical operations.
 
-- ![Image Alt text](Tweets_Preprocessing/Diag.png"title"))  
+- ![Image Alt text](Tweets_Preprocessing/Diag.png"title")  
 
 ## Possible Future Works
 - Using different clustering techniques.
