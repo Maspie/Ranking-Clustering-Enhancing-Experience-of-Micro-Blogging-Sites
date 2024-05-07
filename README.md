@@ -21,3 +21,6 @@ This project develops a comprehensive framework to enhance the discovery and acc
 - **Pandas & NumPy**: Handle data manipulation and mathematical operations.
 
 ## Possible Future Works
+- Using different clustering techniques.
+- Improving RAG and whole model
+
