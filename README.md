@@ -15,7 +15,7 @@ This approach not only simplifies content discovery but also makes it more perso
 
 ### Operational Flow of Tweets Iterative Clustering and Ranking
 
-![Content Discovery Using Iterative Clustering](Tweets_Preprocessing/Diag.png)
+![Content Discovery Using Iterative Clustering](Tweets_Preprocessing/Cluster1.png)
 
 
 
