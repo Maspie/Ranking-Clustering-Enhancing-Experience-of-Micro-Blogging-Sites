@@ -29,7 +29,7 @@ This approach not only simplifies content discovery but also makes it more perso
 
 ![Initial Clusters](Tweets_Preprocessing/Cluster1.png)
 
-#### Sub Cluster level 1
+#### Sub-Clusters level 1
 ![Sub Clusters lvl. 1](Tweets_Preprocessing/Cluster2.png)
 
 
