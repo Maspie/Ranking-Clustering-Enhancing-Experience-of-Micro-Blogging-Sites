@@ -53,8 +53,8 @@ Data Pipeline
 
 ## Results
 
-![Result]
-(Tweets_Preprocessing/WhatsApp Image 2024-04-30 at 9.28.13 PM.jpeg)
+![Result](Tweets_Preprocessing/ss.jpeg)
+
 ## Technologies used
 
 - Python: The primary programming language used for developing the project.
