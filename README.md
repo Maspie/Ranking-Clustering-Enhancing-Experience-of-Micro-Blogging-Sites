@@ -49,8 +49,8 @@ This approach not only simplifies content discovery but also makes it more perso
 
 Data Pipeline
 
-![Result]
-(Tweets_Preprocessing/Untitled Diagram.drawio (2).drawio.png)
+![Result](Tweets_Preprocessing/flow.png)
+
 ## Results
 
 ![Result]
